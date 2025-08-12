@@ -52,8 +52,6 @@ const AuthPage: React.FC = () => {
                     setErrorMessage('An unexpected error occurred.');
                 }
             }
-
-
         }
         setLoading(false); // Set loading state to false
     };
